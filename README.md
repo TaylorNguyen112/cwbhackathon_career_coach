@@ -26,6 +26,7 @@ career_coach/
     │   └── web-search/   # MCP server for web search (Node.js)
     ├── workflow/         # Agent orchestration, tools, and workflow logic
 
+```
 ---
 
 ## Key Features
@@ -63,7 +64,7 @@ career_coach/
 
 Create a `.env` file in the root with at least:
 
-```sh
+```
 AZURE_OPENAI_API_KEY=your-azure-openai-key
 AZURE_OPENAI_ENDPOINT=https://your-azure-endpoint.openai.azure.com/
 AZURE_OPENAI_DEPLOYMENT=your-deployment-name
