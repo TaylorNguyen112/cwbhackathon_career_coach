@@ -14,7 +14,6 @@ A modular, production-ready multi-agent system for career coaching, featuring:
 career_coach/
 │
 ├── requirements.txt      # Python dependencies
-├── startup.sh            # (Optional) Startup script for convenience
 ├── .env                  # (You must provide) Environment variables for Azure/OpenAI/MCP
 │
 ├── docs/                 # Additional documentation (memory, tools, swarm vs group chat, etc.)
