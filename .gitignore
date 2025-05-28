@@ -1,0 +1,10 @@
+docs/
+node_modules/
+venv/
+.env
+startup.sh
+src/archived/
+src/data/
+src/log/
+src/output/
+src/uploads/
